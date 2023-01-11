@@ -13,8 +13,7 @@
                     ]
                 },
                 "name": {
-                    "description": "Pipeline provides the pipeline name.",
-                    "type": "string"
+                    "description": "Pipeline provides the pipeline name."
                 },
                 "stages": {
                     "type": "array",
